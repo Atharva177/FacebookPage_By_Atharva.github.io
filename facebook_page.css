@@ -1,0 +1,33 @@
+    div{
+        border:2px solid rgb(197, 193, 193);
+
+        border-radius: 5px;
+        /* height: 240px; */
+        width: 400px;
+    }
+    span{
+        margin-left: 600px;
+        margin-left: 180px;
+        font-size: 20px;
+        /* font-weight: normal; */
+    }
+    input{
+        padding: 8.9px;
+        width: 250px;
+        border-radius: 3px;
+    }
+    button{
+        padding: 8.9px;
+        width: 250px;
+        background: #1263d4 ;
+        border-radius: 6px;
+        font-weight: bold;
+        border-color: white;
+        color: white;
+    }
+    body{
+        background: white;
+    }
+    a{
+        font-weight: normal;
+    }
